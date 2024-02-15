@@ -37,5 +37,5 @@ out/
 .vscode/
 
 ### ----- ###
-key.pem
+*.pem
 application.yml
