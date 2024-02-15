@@ -6,9 +6,7 @@ services:
     volumes:
       - pgdata:/var/lib/pgsql/data
     environment:
-      - POSTGRES_USER=choheeyeon
       - POSTGRES_PASSWORD=1234
-      - POSTGRES_DB=findclothes
     ports:
       - "5432:5432"
 
