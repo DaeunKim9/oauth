@@ -38,4 +38,4 @@ out/
 
 ### ----- ###
 *.pem
-application.yml
+*.yml
